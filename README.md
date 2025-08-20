@@ -40,7 +40,9 @@ Netflix-clone/
 
 ##  Installation & Running Locally
 
-### 1. Clone the repo
+### 
+
+1. Clone the repo
 ```bash
 git clone https://github.com/vishalagrawal741/Netflix-clone.git
 cd Netflix-clone

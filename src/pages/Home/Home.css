@@ -1,0 +1,25 @@
+/* .home {
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero{
+    position: relative;
+  }
+
+.banner-img{
+    width: 100%;
+    mask-image: linear-gradient(to right, transparent, black 75%);
+    -weblit-mask-image: linear-gradient(to right, transparent, black 75%)
+} */
+
+.hero{
+  min-height: 10vh;
+  width: 100%;
+  background-image: url('../../assets/background.jpg');
+  background-size: cover;
+  background-position: center;
+  border: 2px solid red; /* debugging ke liye */
+}
